@@ -1,3 +1,5 @@
 [user]
 	email = infinitetheometry@gmail.com
 	name = Caleb Schmidt
+[core]
+	editor = vim
