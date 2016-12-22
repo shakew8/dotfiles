@@ -42,8 +42,9 @@ au BufNewFile,BufRead *.js, *.html, *.css
     \ set shiftwidth=2
 
 set encoding=utf-8
-set number
 set showcmd
+set number
+set relativenumber
 set cursorline
 set wildmenu
 set lazyredraw
